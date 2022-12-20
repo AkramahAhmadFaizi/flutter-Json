@@ -1,0 +1,58 @@
+[
+  {
+    "name" : "Akramah Faizi",
+    "age" : "22",
+    "height" : "172",
+    "gender" : "male",
+    "hair_color" : "black"
+  },
+  {
+    "name" : "Pawan Kumar",
+    "age" : "22",
+    "height" : "162",
+    "gender" : "male",
+    "hair_color" : "bulk"
+  },
+  {
+    "name" : "ibn Saqin",
+    "age" : "12",
+    "height" : "142",
+    "gender" : "male",
+    "hair_color" : "brown"
+  },
+  {
+    "name" : "maheena",
+    "age" : "22",
+    "height" : "163",
+    "gender" : "female",
+    "hair_color" : "black"
+  },
+  {
+    "name" : "Akramah Faizi",
+    "age" : "22",
+    "height" : "172",
+    "gender" : "male",
+    "hair_color" : "black"
+  },
+  {
+    "name" : "Pawan Kumar",
+    "age" : "22",
+    "height" : "162",
+    "gender" : "male",
+    "hair_color" : "bulk"
+  },
+  {
+    "name" : "ibn Saqin",
+    "age" : "12",
+    "height" : "142",
+    "gender" : "male",
+    "hair_color" : "brown"
+  },
+  {
+    "name" : "maheena",
+    "age" : "22",
+    "height" : "163",
+    "gender" : "female",
+    "hair_color" : "black"
+  }
+]
